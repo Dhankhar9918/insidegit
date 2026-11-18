@@ -3,5 +3,5 @@ feature 2+bugfix2
 feature 3
 feature 4
 feature 56
-dheeraj
 ajay
+dheeraj
